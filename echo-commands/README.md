@@ -4,7 +4,7 @@ echo #  use the echo command in various ways to print the string "hello" multipl
 output: #  Hello, World!
 
 echo -n # is used to print text to the terminal without adding a newline character at the end of the output.
-# example: echo -n "Hello, "
+# example: echo -n "Hello,"
 #          echo "world!"
 output: # Hello, world!
 
